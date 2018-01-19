@@ -12,4 +12,18 @@ Application gives you list for the products that you need to buy (pipes, valves,
 
 If you already have watering system in your garden you can simply go to step 2.
 
-2. 
+2. Depending on how many water cycles you have in your garden you will need electro valves. in my case I have 4. 
+What you need to have:
+
+- NodeMcu ESP8266 
+- N electro-valves (with proper diamiter)
+- N+1 relays
+- 5V power supply 
+- power transformer 230V AC to 24v DC
+- breakfast vacuum box 
+- some cables
+- Wi-Fi network :)
+
+On this stage you can choose, do you want to have independent system which you can just controll "on demand" or you want to make watering systema part of something bigger :) 
+
+If you choose first option, upload to your ESPNodeMCU unit sketch "Independent System"
